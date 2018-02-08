@@ -1,0 +1,4 @@
+kconf hardware adzs-sc589-ezlite.cfg
+
+kconf hardware adzs-sc589-ezlite-user-config.cfg
+include adzs-sc589-ezlite-user-patches.scc

@@ -1,0 +1,9 @@
+define KMACHINE adzs-sc589-ezlite
+
+define KARCH arm
+
+include ktypes/tiny/tiny.scc
+define KTYPE standard/base
+branch adzs-sc589-ezlite
+
+include adzs-sc589-ezlite.scc

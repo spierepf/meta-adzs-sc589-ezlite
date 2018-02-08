@@ -1,0 +1,9 @@
+define KMACHINE adzs-sc589-ezlite
+
+define KARCH arm
+
+#include bsp/arm-versatile-926ejs/arm-versatile-926ejs-standard nopatch
+define KTYPE standard/base
+branch adzs-sc589-ezlite
+
+include adzs-sc589-ezlite.scc
